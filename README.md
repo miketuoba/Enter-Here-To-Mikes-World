@@ -11,7 +11,7 @@
     <th>Project</th>
     <th>Brief Description</th>
     <th>Language used</th>
-    <th>Where you can find it?</th>
+    <th>Where is it?</th>
   <tr>
   <tr>
     <td>Cannabis Diversity Project</td>
