@@ -15,13 +15,13 @@
   <tr>
   <tr>
     <td>Cannabis Diversity Project</td>
-    <td>xxx</td>
+    <td>A project of bioinformatics: aligning SNP sequences from different cannabis species using sequence alignment/tree building algorithm to explore the phylogenetic relationships between these cannabis species</td>
     <td>R</td>
     <td>a link?</td>
   <tr>
   <tr>
     <td>Simulated Desktop Document Handler</td>
-    <td>xxx</td>
+    <td>Simulating a document handler on the desktop using command-line</td>
     <td>Java</td>
     <td>a link?</td>
   <tr>
