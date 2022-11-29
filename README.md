@@ -29,7 +29,7 @@
     <td>Monster Maze</td>
     <td>A small fun game to navigate a monster in a randomly generated moving maze and race with the time!</td>
     <td>Javascript/HTML/CSS</td>
-    <td>a link?</td>
+    <td><a href="https://github.com/miketuoba/Monster_Maze">Monster_Maze</a></td>
   <tr>
  <table>
 
