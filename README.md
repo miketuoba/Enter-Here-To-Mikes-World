@@ -17,13 +17,13 @@
     <td>Cannabis Diversity Project</td>
     <td>A project of bioinformatics: aligning SNP sequences from different cannabis species using sequence alignment/tree building algorithm to explore the phylogenetic relationships between these cannabis species</td>
     <td>R</td>
-    <td>[a link]https://github.com/miketuoba/Cannabis_markers</td>
+    <td>https://github.com/miketuoba/Cannabis_markers</td>
   <tr>
   <tr>
     <td>Simulated Desktop Document Handler</td>
     <td>Simulating a document handler on the desktop using command-line</td>
     <td>Java</td>
-    <td>[a link]https://github.com/miketuoba/Desktop_Doc_Handler</td>
+    <td>https://github.com/miketuoba/Desktop_Doc_Handler</td>
   <tr>
   <tr>
     <td>Monster Maze</td>
