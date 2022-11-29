@@ -19,6 +19,18 @@
     <td>R</td>
     <td>a link?</td>
   <tr>
+  <tr>
+    <td>Simulated Desktop Document Handler</td>
+    <td>xxx</td>
+    <td>Java</td>
+    <td>a link?</td>
+  <tr>
+  <tr>
+    <td>Monster Maze</td>
+    <td>A small fun game to navigate a monster in a randomly generated moving maze and race with the time!</td>
+    <td>Javascript/HTML/CSS</td>
+    <td>a link?</td>
+  <tr>
  <table>
 
 
