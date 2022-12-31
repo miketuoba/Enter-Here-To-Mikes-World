@@ -35,7 +35,7 @@
     <td>Coin Dropping Game</td>
     <td>A small game for dropping coins</td>
     <td>Java/JavaFX</td>
-    <td><a href="https://github.com/miketuoba/Coin-Dropping-Game">Desktop_Doc_Handler</a></td>
+    <td><a href="https://github.com/miketuoba/Coin-Dropping-Game">Coin_Dropping_Game</a></td>
   </tr>
   <tr>
     <td>Monster Maze</td>
