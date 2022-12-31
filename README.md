@@ -23,7 +23,7 @@
     <td>Dot Plot Alignment Simulator</td>
     <td>A fun project to simulate the simple dot plot alignment for two short DNA sequences and visualize them using Python Tkinter</td>
     <td>Python</td>
-    <td><a href="https://github.com/miketuoba/Dot_Plot_Alignment_simulator">Dot_Plot_Alignment</a></td>
+    <td><a href="https://github.com/miketuoba/Dot-Plot-Alignment-Simulator">Dot_Plot_Alignment</a></td>
   </tr>
   <tr>
     <td>Simulated Desktop Document Handler</td>
