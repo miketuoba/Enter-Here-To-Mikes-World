@@ -12,25 +12,31 @@
     <th>Brief Description</th>
     <th>Language used</th>
     <th>Where is it?</th>
-  <tr>
+  </tr>
   <tr>
     <td>Cannabis Diversity Project</td>
     <td>A project of bioinformatics: aligning SNP sequences from different cannabis species using sequence alignment/tree building algorithm to explore the phylogenetic relationships between these cannabis species</td>
     <td>R</td>
     <td><a href="https://github.com/miketuoba/Cannabis_markers">Cannabis_markers</a></td>
-  <tr>
+  </tr>
+    <tr>
+    <td>Dot Plot Alignment Simulator</td>
+    <td>A fun project to simulate the simple dot plot alignment for two short DNA sequences and visualize them using Python Tkinter</td>
+    <td>Python</td>
+    <td><a href="https://github.com/miketuoba/Dot_Plot_Alignment_simulator">Dot_Plot_Alignment</a></td>
+  </tr>
   <tr>
     <td>Simulated Desktop Document Handler</td>
     <td>Simulating a document handler on the desktop using command-line</td>
     <td>Java</td>
     <td><a href="https://github.com/miketuoba/Desktop_Doc_Handler">Desktop_Doc_Handler</a></td>
-  <tr>
+  </tr>
   <tr>
     <td>Monster Maze</td>
     <td>A small fun game to navigate a monster in a randomly generated moving maze and race with the time!</td>
     <td>Javascript/HTML/CSS</td>
     <td><a href="https://github.com/miketuoba/Monster_Maze">Monster_Maze</a></td>
-  <tr>
+  </tr>
  <table>
 
 
