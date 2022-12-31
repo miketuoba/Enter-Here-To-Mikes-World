@@ -32,6 +32,12 @@
     <td><a href="https://github.com/miketuoba/Desktop_Doc_Handler">Desktop_Doc_Handler</a></td>
   </tr>
   <tr>
+    <td>Coin Dropping Game</td>
+    <td>A small game for dropping coins</td>
+    <td>Java/JavaFX</td>
+    <td><a href="https://github.com/miketuoba/Desktop_Doc_Handler">Desktop_Doc_Handler</a></td>
+  </tr>
+  <tr>
     <td>Monster Maze</td>
     <td>A small fun game to navigate a monster in a randomly generated moving maze and race with the time!</td>
     <td>Javascript/HTML/CSS</td>
