@@ -4,16 +4,10 @@
 - 💞️ I’m looking to collaborate on all kinds of interesting projects
 - 📫 How to reach me @mikesiwen.wu@gmail.com
 
-<style>
-  th{
-    background-color: black;
-    color: white;
-  }
-</style>
 <h2>Here you can find a variety of cool projects out of me!</h2>
 
 <table>
-  <tr>
+  <tr style = "background-color: black; color: white;">
     <th>Project</th>
     <th>Brief Description</th>
     <th>Language used</th>
