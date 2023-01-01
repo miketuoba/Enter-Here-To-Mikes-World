@@ -7,7 +7,7 @@
 <h2>Here you can find a variety of cool projects out of me!</h2>
 
 <table>
-  <tr style = "background-color: black; color: white;">
+  <tr>
     <th>Project</th>
     <th>Brief Description</th>
     <th>Language used</th>
